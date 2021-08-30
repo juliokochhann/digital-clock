@@ -1,7 +1,7 @@
 # Digital Clock
 
-Digital alarm clock that uses the 60 Hz mains frequency as the time base for the clock. It also features battery backup in case of power failure.
+Digital alarm clock that uses mains frequency (60 Hz in Brazil) as the time base for the clock.
 
-![schema](digital_clock.svg)
+![schematic](schematic.png)
 
 
